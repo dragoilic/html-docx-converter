@@ -1,0 +1,28 @@
+{
+  "name": "html-docx-converter",
+  "version": "1.0.0",
+  "description": "A package to convert HTML to DocX",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragoilic/html-docx-converter"
+  },
+  "keywords": [
+    "html",
+    "docx",
+    "converter"
+  ],
+  "author": "Dragoslav Ilic <dragoslavdeveloper@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-docx-js": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "@types/node": "^14.0.0"
+  }
+}
