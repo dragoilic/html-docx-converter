@@ -19,10 +19,10 @@
   "author": "Dragoslav Ilic <dragoslavdeveloper@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "html-docx-js": "^1.0.0"
+    "html-docx-js": "^0.3.1"
   },
   "devDependencies": {
-    "typescript": "^4.0.0",
-    "@types/node": "^14.0.0"
+    "@types/node": "^14.0.0",
+    "typescript": "^4.0.0"
   }
 }
